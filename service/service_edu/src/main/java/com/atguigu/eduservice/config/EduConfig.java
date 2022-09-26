@@ -28,6 +28,7 @@ public class EduConfig {
     /**
      * 分页插件
      */
+    //test change
     @Bean
     public PaginationInterceptor paginationInterceptor() {
         return new PaginationInterceptor();
